@@ -1,7 +1,3 @@
-Hello Duo
+Merge conflicts
 
-This is file1.txt
-
-This is file1.txt again
-
-This is file1.txt, third time.
+As you were developing your experimental branch, maybe you were also developing your main branch. As long as the differences between the branches do not overlap (you have been working on different parts of the project in each branch, which can include different parts of the same file), there is no problem. 
